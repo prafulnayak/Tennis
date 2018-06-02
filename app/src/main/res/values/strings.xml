@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Babji Tennis</string>
+    <string name="businessName">Babji Tennis Academy</string>
+    <string name="businessTag">Generating 100+ National Players</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="morningTime">5AM - 8AM</string>
+    <string name="eveningTime">3PM - 7PM</string>
+    <string name="closedTime">Closed On Sunday Evening</string>
+    <string name="phoneNO">9666235167</string>
+    <string name="address">50 119 5, 50-1-42/5/2, Seethammadhara, Seethammadara, Visakhapatnam, Andhra Pradesh 530013</string>
+</resources>
